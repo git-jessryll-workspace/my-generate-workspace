@@ -1,0 +1,25 @@
+{
+  "name": "sample-generate-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-jessryll-workspace/my-generate-workspace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-jessryll-workspace/my-generate-workspace/issues"
+  },
+  "homepage": "https://github.com/git-jessryll-workspace/my-generate-workspace#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "typescript": "^5.1.3"
+  }
+}
